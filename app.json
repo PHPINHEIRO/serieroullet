@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "serieroullet",
+    "slug": "serieroullet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
