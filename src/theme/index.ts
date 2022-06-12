@@ -12,8 +12,8 @@ export default {
     GREEN: "#B4EBCA",
 
     SHAPE: '#DCDCDC',
-    TITLE: '#FFF',
-
+    TITLE: '#252C33',
+    
   },
 
   FONTS: {

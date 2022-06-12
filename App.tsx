@@ -6,7 +6,6 @@ import {ThemeProvider} from 'styled-components/native'
 import theme from './src/theme';
 import { Signin } from './src/screens/Signin';
 import { StatusBar } from 'expo-status-bar';
-import { Text } from 'react-native';
 
 export default function App() {
 
