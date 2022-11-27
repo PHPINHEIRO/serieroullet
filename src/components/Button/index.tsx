@@ -1,10 +1,12 @@
 import React from "react";
+import { TouchableOpacityProps } from 'react-native';
 
 import { Container, Title, Load } from './styles';
 
-type ButtonProps = {
+type ButtonProps = TouchableOpacityProps & {
     title: string;
     isLoading: boolean;
+    
 }
 
 export function Button( {title, isLoading = false, ...rest} : ButtonProps){

@@ -2,6 +2,7 @@
   "expo": {
     "name": "serieroullet",
     "slug": "serieroullet",
+    "scheme": "serieroullet",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
